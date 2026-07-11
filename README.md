@@ -6,5 +6,5 @@ Welcome to the Okanagan Rover Craft Club
 | <img src="prof_pic/grub_background2.png" width="100" /> | Danny  | Working on Driving System | [GitHub](https://github.com/MrPotato1) <br> (dannyfairall@gmail.com) | This was the only picture I had on my linux desktop |
 | <img src="[prof_pic/patrick_pic.png" width="100" /> | Patrick | Game-Specific Hand Controls + XLR Challenge | (patrickrinn05@gmail.com) | Mildly addicted to pokemon cards 😅
 |<img src="prof_pic/Kon_profile_4HAeqEPvRBEfA2EFGMTmpd.jpg" width="150">|Kon|IMU|(kon.nitsch@icloud.com)|I love to ski and mountain bike|
-
+| <img src="prof_pic/why.jpg" width="100" /> | Karl | Communication with motors | [GitHub](https://github.com/KarlSeeley) <br> karlseeley42@gmail.com | danny scares me |
 
